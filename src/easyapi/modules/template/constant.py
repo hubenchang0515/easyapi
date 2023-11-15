@@ -1,0 +1,1 @@
+module_name:str = __package__.split(".")[1]
